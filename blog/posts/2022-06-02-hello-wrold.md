@@ -7,12 +7,12 @@ date: 2022-06-02
 headerImage: /img/in-post/2022-06-02/header.jpeg
 permalinkPattern: /post/:year/:month/:day/:slug/
 catalog: true
-hide: true
+hide: false
 tags:
-  - Blog
+  - 闲话
 ---
 
-使用Vuepress。
+使用Vuepress&Gungnir。
 
 <!-- more -->
 

@@ -6,7 +6,7 @@ const isProd = process.env.NODE_ENV === "production";
 module.exports = {
   title: "one-egg-blog",
   description: "Hello World",
-
+  base: "/web/",
   head: [
     [
       "link",
