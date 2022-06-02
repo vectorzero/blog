@@ -4,7 +4,7 @@ title: Hello World
 subtitle: hello world
 author: vectorzero
 date: 2022-06-02
-headerImage: /img/in-post/2022-06-02/header.jpeg
+headerImage: /img/in-post/2022-06-02/header1.jpg
 permalinkPattern: /post/:year/:month/:day/:slug/
 catalog: true
 hide: false

@@ -4,7 +4,7 @@ title: 【转】健康学习到150岁
 subtitle: 人体系统调优不完全指南
 author: zijie0
 date: 2022-06-02
-headerImage: /img/in-post/2022-06-02/header.jpg
+headerImage: /img/in-post/2022-06-02/header2.jpg
 permalinkPattern: /post/:year/:month/:day/:slug/
 catalog: true
 hide: false
