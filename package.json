@@ -1,0 +1,33 @@
+{
+  "name": "one-egg-blog",
+  "private": true,
+  "scripts": {
+    "clean": "rimraf blog/.vuepress/.temp blog/.vuepress/.cache dist",
+    "dev": "vuepress-cli dev blog --clean-cache",
+    "build": "pnpm clean && vuepress-cli build blog --clean-cache",
+    "serve": "serve blog/.vuepress/dist"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-beta.46",
+    "@vuepress/cli": "2.0.0-beta.46",
+    "@vuepress/client": "2.0.0-beta.46",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "sass-loader": "^13.0.0",
+    "serve": "^13.0.2",
+    "rimraf": "^3.0.2",
+    "vue": "^3.2.36",
+    "vuepress": "2.0.0-beta.46",
+    "vuepress-theme-gungnir": "2.0.0-alpha.24"
+  },
+  "engines": {
+    "node": ">=14",
+    "pnpm": ">=7"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "webpack"
+      ]
+    }
+  }
+}
