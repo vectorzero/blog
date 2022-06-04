@@ -19,7 +19,7 @@ tags:
 
 更快的访问，如随机访问，是不可行的。与链表相比，数组具有更好的缓存位置。
 
-![Linked List](/img/in-post/2022-06-02/data-structures/Singly-linked-list.svg)
+![Linked List](/img/in-post/data-structures/Singly-linked-list.svg)
 
 ## 基本操作的伪代码
 
