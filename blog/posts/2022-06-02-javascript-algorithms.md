@@ -49,21 +49,21 @@ JavaScript 算法与数据结构
 ### 算法主题
 
 * **数学**
-  * `B` [位运算](./algorithms/math/bits) - set/get/update/clear 位、乘以/除以二进制位 、变负等
+  * `B` [位运算](./algorithms/math/bits.md) - set/get/update/clear 位、乘以/除以二进制位 、变负等
   * `B` [阶乘](./algorithms/math/factorial.md)
-  * `B` [斐波那契数](./algorithms/math/fibonacci) - `经典` 和 `闭式` 版本
-  * `B` [素数检测](./algorithms/math/primality-test) (排除法)
-  * `B` [欧几里得算法](./algorithms/math/euclidean-algorithm) - 计算最大公约数 (GCD)
-  * `B` [最小公倍数](./algorithms/math/least-common-multiple) (LCM)
-  * `B` [素数筛](./algorithms/math/sieve-of-eratosthenes) - 查找任意给定范围内的所有素数
-  * `B` [判断 2 次方数](./algorithms/math/is-power-of-two) - 检查数字是否为 2 的幂 (原生和按位算法)
-  * `B` [杨辉三角形](./algorithms/math/pascal-triangle)
-  * `B` [复数](./algorithms/math/complex-number) - 复数及其基本运算
-  * `B` [弧度和角](./algorithms/math/radian) - 弧度与角的相互转换
-  * `B` [快速算次方](./algorithms/math/fast-powering)
-  * `A` [整数拆分](./algorithms/math/integer-partition)
-  * `A` [割圆术](./algorithms/math/liu-hui) - 基于 N-gons 的近似 π 计算
-  * `A` [离散傅里叶变换](./algorithms/math/fourier-transform) - 把时间信号解析成构成它的频率
+  * `B` [斐波那契数](./algorithms/math/fibonacci.md) - `经典` 和 `闭式` 版本
+  * `B` [素数检测](./algorithms/math/primality-test.md) (排除法)
+  * `B` [欧几里得算法](./algorithms/math/euclidean-algorithm.md) - 计算最大公约数 (GCD)
+  * `B` [最小公倍数](./algorithms/math/least-common-multiple.md) (LCM)
+  * `B` [素数筛](./algorithms/math/sieve-of-eratosthenes.md) - 查找任意给定范围内的所有素数
+  * `B` [判断2次方数](./algorithms/math/is-power-of-two.md) - 检查数字是否为 2 的幂 (原生和按位算法)
+  * `B` [杨辉三角形](./algorithms/math/pascal-triangle.md)
+  * `B` [复数](./algorithms/math/complex-number.md) - 复数及其基本运算
+  * `B` [弧度和角](./algorithms/math/radian.md) - 弧度与角的相互转换
+  * `B` [快速算次方](./algorithms/math/fast-powering.md)
+  * `A` [整数拆分](./algorithms/math/integer-partition.md)
+  * `A` [割圆术](./algorithms/math/liu-hui.md) - 基于 N-gons 的近似 π 计算
+  * `A` [离散傅里叶变换](./algorithms/math/fourier-transform.md) - 把时间信号解析成构成它的频率
 * **集合**
   * `B` [笛卡尔积](./algorithms/sets/cartesian-product) - 多集合结果
   * `A` [洗牌算法](./algorithms/sets/fisher-yates) - 随机置换有限序列
