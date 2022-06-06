@@ -6,8 +6,7 @@ author: vectorzero
 date: 2022-06-06
 headerImage: /img/in-post/2022-06-02/header3.jpg
 permalinkPattern: /post/:year/:month/:day/:slug/
-catalog: true
-hide: false
+hide: true
 tags:
   - 算法
 ---
@@ -19,7 +18,6 @@ tags:
 边长为连续斐波纳契数的正方形平铺
 
 ![Fibonacci](https://upload.wikimedia.org/wikipedia/commons/d/db/34%2A21-FibonacciBlocks.png)
-
 
 斐波那契螺旋：通过绘制连接斐波那契平铺中正方形的相对角的圆弧而创建的金色螺旋的近似值； [4]该三角形使用大小为1、1、2、3、5、8、13和21的正方形。
 

@@ -6,8 +6,7 @@ author: vectorzero
 date: 2022-06-06
 headerImage: /img/in-post/2022-06-02/header3.jpg
 permalinkPattern: /post/:year/:month/:day/:slug/
-catalog: true
-hide: false
+hide: true
 tags:
   - 算法
 ---
@@ -24,11 +23,11 @@ It is attributed to Eratosthenes of Cyrene, an ancient Greek mathematician.
 4. Mark as `false` all the multiples of `p` (that is, positions `2 * p`, `3 * p`, `4 * p`... until you reach the end of the array)
 5. Find the first position greater than `p` that is `true` in the array. If there is no such position, stop. Otherwise, let `p` equal this new number (which is the next prime), and repeat from step 4
 
-When the algorithm terminates, the numbers remaining `true` in the array are all 
+When the algorithm terminates, the numbers remaining `true` in the array are all
 the primes below `n`.
 
-An improvement of this algorithm is, in step 4, start marking multiples 
-of `p` from `p * p`, and not from `2 * p`. The reason why this works is because, 
+An improvement of this algorithm is, in step 4, start marking multiples
+of `p` from `p * p`, and not from `2 * p`. The reason why this works is because,
 at that point, smaller multiples of `p` will have already been marked `false`.
 
 ## Example

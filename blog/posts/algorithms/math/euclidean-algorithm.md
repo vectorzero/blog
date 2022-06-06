@@ -6,8 +6,7 @@ author: vectorzero
 date: 2022-06-06
 headerImage: /img/in-post/2022-06-02/header3.jpg
 permalinkPattern: /post/:year/:month/:day/:slug/
-catalog: true
-hide: false
+hide: true
 tags:
   - 算法
 ---
