@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: 中国程序员容易发音错误的单词
+title: 【转】中国程序员容易发音错误的单词
 subtitle: Words Commonly Mispronounced by Chinese Programmers
 author: shimohq
 date: 2022-06-08
