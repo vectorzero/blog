@@ -12,6 +12,13 @@ module.exports = {
       "link",
       {
         rel: "icon",
+        href: "/favicon.ico",
+      },
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
         type: "image/png",
         sizes: "16x16",
         href: `/img/logo/favicon-16x16.png`

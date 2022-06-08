@@ -4,7 +4,7 @@ title: 【转】JavaScript 算法与数据结构
 subtitle: javascript-algorithms
 author: vectorzero
 date: 2022-06-02
-headerImage: /img/in-post/2022-06-02/header3.jpg
+headerImage: /img/in-post/header3.jpg
 permalinkPattern: /post/:year/:month/:day/:slug/
 catalog: true
 hide: false
